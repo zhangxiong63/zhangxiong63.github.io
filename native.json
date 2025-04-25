@@ -8,8 +8,8 @@
     },
     "supports": {
         "native": {
-            "android": "http://app.ronpad.com/egret/downloads/android_1443523c87b1552163490a89d901451d.zip",
-            "ios": "http://app.ronpad.com/egret/downloads/ios_4a449a853ff59e2b3c8cd2bc5d474a13.zip"
+            "android": "https://zhangxiong63.github.io/android_1443523c87b1552163490a89d901451d.zip",
+            "ios": "https://zhangxiong63.github.io/ios_4a449a853ff59e2b3c8cd2bc5d474a13.zip"
         }
     }
 }
